@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/wllyvx/frontendmentor-loopstudio.git/static/css/main.ea50fa83.css",
-    "main.js": "/wllyvx/frontendmentor-loopstudio.git/static/js/main.f05462f3.js",
-    "static/media/image-hero.jpg": "/wllyvx/frontendmentor-loopstudio.git/static/media/image-hero.9b5aacead42e955824d3.jpg",
-    "index.html": "/wllyvx/frontendmentor-loopstudio.git/index.html",
-    "main.ea50fa83.css.map": "/wllyvx/frontendmentor-loopstudio.git/static/css/main.ea50fa83.css.map",
-    "main.f05462f3.js.map": "/wllyvx/frontendmentor-loopstudio.git/static/js/main.f05462f3.js.map"
+    "main.css": "/frontendmentor-loopstudio/static/css/main.ab2d40f7.css",
+    "main.js": "/frontendmentor-loopstudio/static/js/main.f05462f3.js",
+    "static/media/image-hero.jpg": "/frontendmentor-loopstudio/static/media/image-hero.9b5aacead42e955824d3.jpg",
+    "index.html": "/frontendmentor-loopstudio/index.html",
+    "main.ab2d40f7.css.map": "/frontendmentor-loopstudio/static/css/main.ab2d40f7.css.map",
+    "main.f05462f3.js.map": "/frontendmentor-loopstudio/static/js/main.f05462f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea50fa83.css",
+    "static/css/main.ab2d40f7.css",
     "static/js/main.f05462f3.js"
   ]
 }
