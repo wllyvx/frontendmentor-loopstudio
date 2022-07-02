@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wllyvx/frontendmentor-loopstudio.git/static/css/main.ea50fa83.css",
+    "main.js": "/wllyvx/frontendmentor-loopstudio.git/static/js/main.f05462f3.js",
+    "static/media/image-hero.jpg": "/wllyvx/frontendmentor-loopstudio.git/static/media/image-hero.9b5aacead42e955824d3.jpg",
+    "index.html": "/wllyvx/frontendmentor-loopstudio.git/index.html",
+    "main.ea50fa83.css.map": "/wllyvx/frontendmentor-loopstudio.git/static/css/main.ea50fa83.css.map",
+    "main.f05462f3.js.map": "/wllyvx/frontendmentor-loopstudio.git/static/js/main.f05462f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea50fa83.css",
+    "static/js/main.f05462f3.js"
+  ]
+}
