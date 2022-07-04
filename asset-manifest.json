@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frontendmentor-loopstudio/static/css/main.ab2d40f7.css",
-    "main.js": "/frontendmentor-loopstudio/static/js/main.f05462f3.js",
+    "main.js": "/frontendmentor-loopstudio/static/js/main.649bfbb0.js",
     "static/media/image-hero.jpg": "/frontendmentor-loopstudio/static/media/image-hero.9b5aacead42e955824d3.jpg",
     "index.html": "/frontendmentor-loopstudio/index.html",
     "main.ab2d40f7.css.map": "/frontendmentor-loopstudio/static/css/main.ab2d40f7.css.map",
-    "main.f05462f3.js.map": "/frontendmentor-loopstudio/static/js/main.f05462f3.js.map"
+    "main.649bfbb0.js.map": "/frontendmentor-loopstudio/static/js/main.649bfbb0.js.map"
   },
   "entrypoints": [
     "static/css/main.ab2d40f7.css",
-    "static/js/main.f05462f3.js"
+    "static/js/main.649bfbb0.js"
   ]
 }
